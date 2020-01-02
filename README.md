@@ -1,4 +1,4 @@
-# Web-Scraping-HTML-Tables
+# Web scraping HTML Tables
 
 ## Introduction
 As an aspiring data scientist, I do a lot of projects which involve scraping data from various websites. Some companies like Twitter do provide APIs to get their information in a more organized way while we have to scrape other websites to get data in a structured format.
